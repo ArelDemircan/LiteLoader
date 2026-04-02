@@ -2,7 +2,7 @@
 
 **LiteLoader** is a high-performance, minimalist video downloader built with Python. Download high-quality content from YouTube, Instagram, and 100+ other platforms with zero hassle.
 
-![LiteLoader Preview](ekran-goruntusu-linki-buraya) ---
+![LiteLoader Dashboard](screenshot.png)
 
 ### ✨ Key Features
 * **🎨 Modern UI:** A sleek, dark-mode interface built with `CustomTkinter`.
